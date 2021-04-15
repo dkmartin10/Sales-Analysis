@@ -1,3 +1,3 @@
 # Sales-Analysis
-![](<over = 'images/Overview.png' width = 900>)
+![](images/Overview.png = 250x250)
 
